@@ -1,6 +1,6 @@
 # Monero Classic
 
-Copyright (c) 2018, The Monero Classic Developers.
+Copyright (c) 2018, The Monero Classic Developers.   
 Portions Copyright (c) 2012-2013, The CryptoNote Developers.
 
 ## Introduction
